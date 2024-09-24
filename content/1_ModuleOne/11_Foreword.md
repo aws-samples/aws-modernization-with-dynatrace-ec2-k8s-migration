@@ -19,7 +19,6 @@ This paragraph block should be an explanation of an existing problem and how the
 ### Next Section Heading <!-- MODIFY THIS HEADING -->
 This paragraph block can optionally be utilized to lead into the next section of the workshop.
 
-#### Example Content Guidance
 
 # The nature of software development has fundamentally changed
 
